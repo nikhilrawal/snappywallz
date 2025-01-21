@@ -32,6 +32,8 @@ migrate_working_dir/
 /build/
 /lib/secure/
 /android/app/google-services.json
+/firebase.json
+firebase.json
 
 # Symbolication related
 app.*.symbols
