@@ -11,12 +11,12 @@ Watch the video demonstration of the app to see it in action:
 ## Screenshots
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: space-between;">
-  <img src="assets/01.jpg" alt="Screenshot 1" width="200" height="500">
-  <img src="assets/02.jpg" alt="Screenshot 2" width="200" height="500">
-  <img src="assets/03.jpg" alt="Screenshot 3" width="200" height="500">
-  <img src="assets/04.jpg" alt="Screenshot 4" width="200" height="500">
-  <img src="assets/05.jpg" alt="Screenshot 5" width="200" height="500">
-  <img src="assets/06.jpg" alt="Screenshot 6" width="200" height="500">
+  <img src="assetss/01.jpg" alt="Screenshot 1" width="200" height="500">
+  <img src="assetss/02.jpg" alt="Screenshot 2" width="200" height="500">
+  <img src="assetss/03.jpg" alt="Screenshot 3" width="200" height="500">
+  <img src="assetss/04.jpg" alt="Screenshot 4" width="200" height="500">
+  <img src="assetss/05.jpg" alt="Screenshot 5" width="200" height="500">
+  <img src="assetss/06.jpg" alt="Screenshot 6" width="200" height="500">
 </div>
 
 ## Features
